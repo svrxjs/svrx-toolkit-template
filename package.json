@@ -1,0 +1,18 @@
+{
+  "name": "svrx-plugin-{{name}}",
+  "version": "{{version}}",
+  "description": "{{name}} plugin for server-x",
+  "main": "index.js",
+  "scripts": {},
+  "engines": {
+    "svrx": "^{{svrxVersion}}"
+  },
+  "keywords": [
+    "svrx",
+    "svrx-plugin",
+    "{{name}}"
+  ],
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
