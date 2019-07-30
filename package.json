@@ -12,7 +12,8 @@
     "svrx-plugin",
     "{{name}}"
   ],
-  "license": "MIT",
+  "author": "{{author}",
+  "license": "{{license}",
   "devDependencies": {},
   "dependencies": {}
 }
