@@ -12,8 +12,8 @@
     "svrx-plugin",
     "{{name}}"
   ],
-  "author": "{{author}",
-  "license": "{{license}",
+  "author": "{{author}}",
+  "license": "{{license}}",
   "devDependencies": {},
   "dependencies": {}
 }
