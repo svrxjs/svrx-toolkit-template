@@ -1,4 +1,7 @@
 # svrx-toolkit-template
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/x-orpheus/svrx-toolkit-template.svg)](https://greenkeeper.io/)
+
 >>> The template for svrx plugin
 
 ## Usage
